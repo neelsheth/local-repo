@@ -1,0 +1,16 @@
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/neelsheth/local-repo.git
+
+//---- to check repo
+git remote -v
+
+//---- check branch name
+git branch
+
+//---- chnage branch name
+git branch -M main
+
+
+//----- change in remot repo
+git push origin main
