@@ -16,4 +16,8 @@ git branch -M main
 git push origin main
 
 //-----
+<<<<<<< HEAD
 git pull origin main
+=======
+git pull origin main not ok
+>>>>>>> 52dbe5825962894d3a7eecca4ba94a12ae4d3e61
