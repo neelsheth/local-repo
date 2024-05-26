@@ -14,3 +14,6 @@ git branch -M main
 
 //----- change in remot repo
 git push origin main
+
+//-----
+git pull origin main
